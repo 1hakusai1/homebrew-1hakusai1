@@ -6,6 +6,6 @@ class AwscurlRs < Formula
     version "0.1.0"
   
     def install
-      bin.install "awscrul"
+      bin.install "awscurl"
     end
   end
