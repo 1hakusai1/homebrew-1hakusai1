@@ -1,4 +1,4 @@
-class AWSCurlRs < Formula
+class AwscurlRs < Formula
     desc "curl with AWS sigv4 signing written in Rust"
     homepage "https://github.com/1hakusai1/awscurl-rs"
     url "https://github.com/1hakusai1/awscurl-rs/releases/download/0.1.0/awscurlrs_0.1.0_darwin_arm64.zip"
