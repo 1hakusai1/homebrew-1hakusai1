@@ -1,9 +1,9 @@
 class AwscurlRs < Formula
     desc "curl with AWS sigv4 signing written in Rust"
     homepage "https://github.com/1hakusai1/awscurl-rs"
-    url "https://github.com/1hakusai1/awscurl-rs/releases/download/0.9.0/awscurl-rs_0.9.0_darwin_arm64.zip"
-    sha256 "6480742f17c179ffd51fd1fe4f9c3de708f9e308efa1b750c3c34d8abc2daa6d"
-    version "0.9.0"
+    url "https://github.com/1hakusai1/awscurl-rs/releases/download/0.10.0/awscurl-rs_0.10.0_darwin_arm64.zip"
+    sha256 "8d1dc53b3192039d50fe6711b5091e8215235fca06e50a60a51258f6e3bf94b9"
+    version "0.10.0"
   
     def install
       bin.install "awscurl"
